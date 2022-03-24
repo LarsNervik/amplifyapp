@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello from V2</h1>
       </header>
+      <h4>Lane1 demo application</h4>
     </div>
   );
 }
