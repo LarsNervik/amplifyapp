@@ -11,7 +11,7 @@ function App() {
       </header>
       <h4>- React application</h4>
       <h4>- GitHub integration</h4>
-      <h4>- Continous deploy with AWS AMPLIFY</H4>
+      <h4>- Continous deploy with AWS Amplify</H4>
     </div>
   );
 }
